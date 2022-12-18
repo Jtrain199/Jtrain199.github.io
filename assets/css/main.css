@@ -154,7 +154,7 @@ input, select, textarea {
 			font-family: 'Font Awesome 5 Brands';
 		}
 
-/* Wrapper */
+<!--/* Wrapper */
 
 	@-moz-keyframes wrapper {
 		0% {
@@ -208,7 +208,7 @@ input, select, textarea {
 		top: 0;
 		width: 100%;
 	}
-
+-->
 /* BG */
 
 	#bg {
