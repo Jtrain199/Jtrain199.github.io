@@ -154,7 +154,7 @@ input, select, textarea {
 			font-family: 'Font Awesome 5 Brands';
 		}
 
-<!--/* Wrapper */
+/* Wrapper */
 
 	@-moz-keyframes wrapper {
 		0% {
@@ -208,7 +208,7 @@ input, select, textarea {
 		top: 0;
 		width: 100%;
 	}
--->
+
 /* BG */
 
 	#bg {
@@ -235,7 +235,7 @@ input, select, textarea {
 		top: 0;
 	}
 
-	@-moz-keyframes bg {
+	<!-- @-moz-keyframes bg {
 		0% {
 			-moz-transform: translate3d(0,0,0);
 			-webkit-transform: translate3d(0,0,0);
@@ -298,7 +298,7 @@ input, select, textarea {
 			transform: translate3d(-2250px,0,0);
 		}
 	}
-
+-->
 	#bg {
 		background-size: 2250px auto;
 		width: 6750px;
